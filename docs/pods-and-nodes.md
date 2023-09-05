@@ -8,6 +8,12 @@
 
 #### Pod
 
+![Excalidraw](../assets/excalidraw-pod.png)
+
+- [what-is-a-pod](https://kubernetes.io/docs/concepts/workloads/pods/)
+
+- [pod-lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
+
 A Pod is a Kubernetes abstraction that represents a group of one or more application containers (such as Docker).
 
 For example, a Pod might include both the container with your Node.js app as well as a different container that feeds the data to be published by the Node.js webserver.
