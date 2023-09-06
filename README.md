@@ -9,6 +9,8 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 - [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - [Kubernetes Explained in 100 Seconds](https://www.youtube.com/watch?v=PziYflu8cB8)
 - [Awesome Kubernetes](https://github.com/tomhuang12/awesome-k8s-resources)
+- [Lens](https://k8slens.dev/)
+- [Rancher](https://www.rancher.com/)
 
 ## Requirements 🧰
 
@@ -22,3 +24,4 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 - [pods-and-nodes](./docs/pods-and-nodes.md)
 - [expose-app](./docs/expose-app.md)
 - [scale-app](./docs/scale-your-app.md)
+- [update-app](./docs/update-your-app.md)

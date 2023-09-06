@@ -4,6 +4,8 @@
 
 - Scale an app using kubectl.
 
+![scale](../assets/excalidraw-scale.png)
+
 #### Scaling an application
 
 At this we should already have a deployment running and we should be able to access it using the service we created before.
