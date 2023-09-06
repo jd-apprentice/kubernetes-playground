@@ -21,3 +21,4 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 - [create-deployment](./docs/create-deployment.md)
 - [pods-and-nodes](./docs/pods-and-nodes.md)
 - [expose-app](./docs/expose-app.md)
+- [scale-app](./docs/scale-your-app.md)
